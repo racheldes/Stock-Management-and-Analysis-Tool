@@ -1,0 +1,15 @@
+Our program with a text based interface can handle the following features:
+- Create a portfolio of stocks and buy/sell stocks on a specific date.
+- Find the composition, value and distribution of value of a portfolio on a specified date
+- Save an existing portfolio and retrieve a previously saved portfolio
+- Inspect whether a stock lost or gained on a specified day
+- Compute the x-day moving average for a given stock
+- Compute and report the x-day crossover days for a given stock within a specified period
+- Do all of the above for any stock that is available in the AlphaVantage API.
+- Allow balancing of an existing portfolio with the given weights on a specified date
+- Plot a bar chart that illustrates the performance of a given stock or existing portfolio over a given time frame
+
+Our program with a gui can handle the following features:
+- Create a portfolio of stocks and buy/sell stocks on a specific date.
+- Find the composition, value and distribution of value of a portfolio on a specified date
+- Save an existing portfolio and retrieve a previously saved portfolio
